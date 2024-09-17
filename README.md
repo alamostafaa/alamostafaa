@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alamostafaa
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React.js and Flutter
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 How to reach me Alamostafa1127@gmail.com
 
